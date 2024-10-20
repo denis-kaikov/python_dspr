@@ -10,7 +10,7 @@
 
 
 ### Описание проекта    
-[Исслледование данных HR агенства](https://drive.google.com/file/d/1xpeAp4Fh0JOlOkAl0BWj13qD_n0V2Z15/view?usp=sharing) 
+[Исслледование данных HR агенства](https://github.com/denis-kaikov/python_dspr/blob/main/HW-02/HR_trends.ipynb) 
 
 
 
