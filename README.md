@@ -8,4 +8,4 @@
 * [Проект 2.1. ДЗ: Исслледование данных HR агенства](https://github.com/denis-kaikov/python_dspr/tree/main/HW-02)
 * [Проект 3. Проект 3 оценки отелей]()
 * [Проект 3.1 . ДЗ: Создание модели для предсказания уходящих клиентов](https://github.com/denis-kaikov/python_dspr/tree/main/HW-03)
-* [Проект 3.2 . ДЗ: Создание модели для предсказания уходящих клиентов](https://github.com/denis-kaikov/python_dspr/tree/main/HW-03_1)
+* [Проект 3.2 . ДЗ: Прогнозирование биологического ответа](https://github.com/denis-kaikov/python_dspr/tree/main/HW-03_1)
